@@ -2,3 +2,4 @@
 /dist
 /coverage
 /src/main/routes/signup-routes.ts
+/data
